@@ -31,5 +31,5 @@ Colocar las fotos en input y se clasificarán en la carpeta de clasificados.
 
 1. **Clona** o **descarga** este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
-   cd tu-repo
+   git clone https://github.com/fran713/Clasificador_Fotos
+   cd Clasificador_Fotos
